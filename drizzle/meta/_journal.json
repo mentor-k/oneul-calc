@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785119410311,
+      "tag": "0000_lame_emma_frost",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785119932892,
+      "tag": "0001_sturdy_rocket_racer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785120493109,
+      "tag": "0002_salty_ultimates",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786013353044,
+      "tag": "0003_white_nuke",
+      "breakpoints": true
+    }
+  ]
+}
